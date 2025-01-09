@@ -1,3 +1,5 @@
+![Logo](./logo.png)
+
 # Deep Dissect
 
 **Version:** 1.0 
