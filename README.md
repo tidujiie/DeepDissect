@@ -6,6 +6,10 @@
 
 ## Summary
 
+The anonymized repository was created solely for a submission process.
+The maintained and up-to-date version is available in the official repository:  
+https://github.com/tmdt-buw/deep-dissect
+
 `deep_dissect` is a Python library tailored for performing ablation studies on MMDetection models. It offers tools to investigate and assess the influence of different components within object detection models, with a particular focus on detection transformer models implemented in the MMDetection framework.
 
 ## Features
@@ -15,13 +19,8 @@
 
 ## Installation
 
-To install the `deep_dissect` package, clone the repository and install it using (cuda 10.2 is needed for this installation):
-
-```bash
-git clone https://repo.git
-cd deep_dissect
-python install.py
-```
+Use the official repository rather than the anonymized submission version:
+https://github.com/tmdt-buw/deep-dissect
 
 ## License
 This project is licensed under the MIT License.
